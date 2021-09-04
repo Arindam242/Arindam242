@@ -6,4 +6,5 @@
 <h2 align="center">connect with me</h2> 
 <p align="center">
 	<a href="https://twitter.com/Arindam20103910"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width ="60"/></a>
+	<a href ="" ><img src="https://www.pngrepo.com/png/107799/512/linkedin.png" width="60"/></a>
 </p>
